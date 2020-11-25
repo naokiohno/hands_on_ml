@@ -23,5 +23,3 @@ def load_housing_data(housing_path=housing_path):
 
 fetch_housing_data()
 housing = load_housing_data()
-
-housing.head()
